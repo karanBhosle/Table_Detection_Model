@@ -105,4 +105,4 @@ Future improvements could include:
 
 This implementation provides a robust pipeline for **automated table extraction and recognition** from scanned or digital PDF documents.
 
-This project was developed by Karan Bhosle. Connect on LinkedIn: [Karan Bhosle](https://www.linkedin.com/in/karanbhosle/).
+This project was developed by Karan Bhosle. Connect on LinkedIn: [Karan Bhosle](https://www.linkedin.com/in/karanbhosle/). 
